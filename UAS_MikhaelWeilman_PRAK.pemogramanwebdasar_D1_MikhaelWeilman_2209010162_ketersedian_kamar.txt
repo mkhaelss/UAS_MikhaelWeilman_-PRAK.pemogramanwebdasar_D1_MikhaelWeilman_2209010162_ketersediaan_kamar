@@ -197,6 +197,3 @@ $roomStatus->update([
     'status' => 'available',
     'date' => Carbon::now(),
 ]);
-
-
-link: https://github.com/amandaisnaini/UAS_Amandaisnainiputri_PRAK.pemogramanwebdasar_D1_Amandaisnainiputri_2209010150_ketersedian_kamar.git
